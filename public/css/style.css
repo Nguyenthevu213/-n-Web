@@ -1,0 +1,420 @@
+.navbar-brand{
+     border-bottom: 1px solid;
+    border-top: 1px solid;
+    color: #fff;  
+}
+.navbar-brand:hover{
+    color: #fff;
+}
+.pd-20{
+    padding: 3px 10px;
+}
+header{
+    background: url(../images/image-new-design-3.jpg);
+    padding-bottom: 1px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.element-style{
+    background-color: rgba(0, 0, 0, .2);
+}
+.mid{
+    text-align: center;
+    color: #fff;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 72px;
+    letter-spacing: 1px;
+    padding: 200px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.j{
+    margin-top: 100px;
+}
+.abc{
+    letter-spacing: 10px;
+    font-weight: 700;
+    font-size: 60px;
+}
+.mid2{
+    align-self: center;
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.75em;
+    padding: 25px 0 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mid3{
+    color:#000;
+    background: #fff;
+    width: 150px;
+    height: 40px;
+    border-radius: 1px;
+    text-align: center;
+    padding-top: 5px;
+}
+.aaa{
+    position: relative;
+}
+.icon1{
+    color: #fff;
+    font-size: 41px;
+}
+.logocot1{
+    position: absolute;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    transform: translate(150%, 45%);
+    border-radius: 100%;
+    background-color: #000;
+}
+.bbb{
+    position: relative;
+}
+.icon2{
+    color: #fff;
+    font-size: 41px;
+}
+.logocot2{
+    position: absolute;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    transform: translate(150%, 45%);
+    border-radius: 100%;
+    background-color: #000;   
+}
+.ccc{
+    position: relative;
+}
+.icon3{
+    color: #fff;
+    font-size: 41px;
+}
+.logocot3{
+    position: absolute;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    transform: translate(150%, 45%);
+    border-radius: 100%;
+    background-color: #000;   
+}
+.mid3:hover{
+    background: #000;
+    color: #fff;
+    font-weight: 400;
+}
+.top{
+    color: #fff;
+  text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+    letter-spacing: 7px;
+    font-size: 2em;
+}
+.top1{
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+
+} 
+.nav-item{
+    padding-left: 30px ;
+}
+.nav-item:hover >a{
+    border-bottom: 1px solid;
+    color: #fff;
+}
+.navtucss{
+    border-bottom: 1px solid;
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff;
+    border-bottom: 1px solid;
+}
+.vu{
+    text-align: center;
+    color:#000;
+    font-family: "Hind", Sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal; 
+    line-height: 1.2em;
+    letter-spacing: 10px;
+    margin-top: 50px;
+}
+.vu2{
+    text-align: center;
+    color: #a0a0a0;
+    font-family: "Muli", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 30px;
+    flex-basis: 680px;
+    margin-top: 30px;
+}
+.cot3{
+    text-align: center;
+    border: 1px solid #000;
+}
+.h{
+    margin-top: 60px;
+}
+.cot1{
+    padding: 100px 0;
+}
+.hh
+{
+    padding-right: 10px;
+    display: inline-block;
+}
+.chu1{
+    text-align: center;
+
+}
+.logofooter{
+   text-align: center;
+}
+.elementor-icon{
+    padding-left: 10px;
+    text-decoration: none;
+    color: #000;
+}
+.zeme{
+    text-align: center;
+    margin-top: 20px;
+    color: #a0a0a0;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px; ;
+}
+.chuft{
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px; ;
+}
+.work{
+    text-align: center;
+}
+.work1{
+    color: #303030;
+    font-family: "Hind", Sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    text-transform: none;
+    font-style: normal;
+    line-height: 51px;
+    letter-spacing: 12px;
+    margin-top: 90px;
+}
+.work2{
+    text-align: center;
+    color: #595959;
+    font-family: "Muli", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 31.5px;
+}
+.iphone{  
+  background-image: url(../images/siyan-ren-14405-unsplash-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.col-md-6{
+    margin-top: 50px; 
+}
+.ngang{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    align-items: center;
+    transform: translate(-120%, -198%);
+    border-radius: 100%;
+    background-color: #fff;
+}
+.cotnho{
+    font-family: "Muli", Sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+.ps-fl{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+.cotto{
+    font-family: "Raleway", Sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+.bao{
+    float: right;
+    padding: 0 60px;
+}
+
+.ip{
+    width: 100%;
+}
+.toi{
+    background-color:rgba(0, 0, 0, .62);
+    padding: 140px 0 0;
+}
+.fle{
+    align-items: flex-end;
+}
+.h1{
+     border-top: 100px;
+    padding: 20px 0;
+    margin-top: 5px;
+    max-width: 100%;
+    vertical-align: top;
+    padding-bottom: 2px;
+    bottom: 0;
+}
+.content {
+    background: #000;
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0mm;
+}
+.xuongrong{
+    position: relative;
+}
+.xuongrong:hover >.anh1>.content{
+    display: block;
+}
+.title{
+    text-align: center;
+     color: #ffffff; 
+    font-family: "Montserrat", Sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 21px;
+    order: 1;
+}
+.desc{
+    text-align: center;
+    color: #fff;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 22.75px;
+    order: 3;
+    bottom: 0
+}
+.phancuoi{
+    border: 1px solid #fff;
+    width: 38%;
+    height: 363px;
+    border-radius: 4px;
+    margin-left: 7%;
+    margin-top: 20px;
+    background-color: rgba(255,255,255,0.92);
+}
+.chuphancuoi{
+    padding-top: 50px;
+    padding-left: 40px
+}
+.oke{
+    color: #303030;
+    font-family: "Hind", Sans-serif;
+    font-size: 54px;
+    line-height: 64.8px;
+    letter-spacing: 14.58px;
+}
+.okey{
+    color: #474747;
+    font-family: "Muli", Sans-serif;
+    font-weight: 400;
+    line-height: 32px;
+    flex-basis: 100;
+}
+.bgphancuoi{
+    background: url(../images/image-new-design-4.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 122px 0px 89px 0px;
+    margin-top: 77px;
+}
+.view{
+    border: 1px solid rgba(0, 0, 0, .08);;
+    width: 35%;
+    height: 44px;
+    border-radius: 4px;
+    margin-left: 7%;
+    margin-top: 13px;
+    background: rgba(0, 0, 0, .2);
+}
+.viewchu{
+    color: #fff;
+    padding-top: 7px;
+    text-align: center;
+}
+.view:hover{
+    background: #000;
+    
+}
+.nav-link{
+    display: inline-block;
+    line-height: 2.5px;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    transition: color .15s
+    
+
+}
+.elementor-icon {
+    padding-left: 20px;
+}
+@media (max-width: 768px){
+    .anhip{
+        display: none;
+    }
+    .phancuoi {
+        border: 1px solid #fff;
+       
+        width: 90%;
+        border-radius: 4px;
+       
+        background-color: rgba(255,255,255,0.92);
+        transform: translate(-2%, 0%);
+    }
+    .chuphancuoi {
+       
+        padding: 24px;
+    }
+}
+
